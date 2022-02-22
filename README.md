@@ -1,6 +1,7 @@
-# ichat_app
+# Android Chat App
 
-A new Flutter project.
+A TR - Anlık mesajlaşma uygulaması gerçekleştirmek. 
+  EN - Performing an instant messaging application.
 
 ## Getting Started
 
