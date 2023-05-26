@@ -7,35 +7,35 @@
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:319995358032:android:75b2b38db9cdc7e0cd9a55",
+        "mobilesdk_app_id": "your_mobile_sdk_app_id",
         "android_client_info": {
           "package_name": "com.example.ichat_app"
         }
       },
       "oauth_client": [
         {
-          "client_id": "319995358032-auh9t9nl6s65ot007hf5se84r7m3guik.apps.googleusercontent.com",
+          "client_id": "your_client_id",
           "client_type": 1,
           "android_info": {
             "package_name": "com.example.ichat_app",
-            "certificate_hash": "21c214ac5e119f06f5b92a0343d5e397fbf5d19b"
+            "certificate_hash": "your_certificate_hash"
           }
         },
         {
-          "client_id": "319995358032-fk766fibl27nmpk3lcvsod6t9s0nju55.apps.googleusercontent.com",
+          "client_id": "your_client_id",
           "client_type": 3
         }
       ],
       "api_key": [
         {
-          "current_key": "AIzaSyAyUy0m-LSXqn0A5WYagte2SMRFFZTC_VM"
+          "current_key": "your_current_key"
         }
       ],
       "services": {
         "appinvite_service": {
           "other_platform_oauth_client": [
             {
-              "client_id": "319995358032-fk766fibl27nmpk3lcvsod6t9s0nju55.apps.googleusercontent.com",
+              "client_id": "your_client_id",
               "client_type": 3
             }
           ]
